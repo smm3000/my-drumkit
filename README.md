@@ -1,4 +1,4 @@
-# my-drumkit
+# My Drumkit
 
 The purpose of this project was to create a simple drumkit using html, css and javascript. 
 
